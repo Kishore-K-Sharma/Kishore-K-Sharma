@@ -1,185 +1,24 @@
-<h1 align="center">Kishore K Sharma</h1>
+# 💫 About Me:
+I am a Lead Full Stack Engineer with 6.5+ years of experience building scalable cloud-native platforms, distributed systems, and production-grade applications across telecom, fintech, govtech, and edtech domains. My core strength is backend engineering with Java, Spring Boot, microservices, and AWS, but I work across the entire delivery pipeline — from schema design and APIs to frontend interfaces and deployment systems.<br><br>I describe my engineering style with one line:<br><br>**“I ship end-to-end. Schema to surface. No handoffs.”**<br><br>I believe strong engineering comes from ownership, not isolated specialization. The same engineer who designs the service should understand the UI consuming it, the deployment pipeline running it, and the metrics validating it in production. That mindset has shaped how I build systems, mentor teams, and deliver software.<br><br>Over the years, I have worked on carrier-scale enterprise platforms, CRM modernization systems, loan-processing applications, real-time tutoring infrastructure, and department-scale governance portals. Across every domain, the engineering discipline remains the same: understand the problem deeply, design clear system boundaries, instrument what matters, and deliver measurable outcomes.<br><br>My backend stack primarily revolves around Java, Spring Boot, Spring Cloud, distributed microservices, REST APIs, authentication systems, caching, resiliency patterns, and performance optimization. I have also built extensively using Node.js and NestJS for modern service architectures. On the frontend side, I work with React, Angular, TypeScript, and React Native to deliver responsive and scalable user experiences.<br><br>I have hands-on experience with cloud-native infrastructure and DevOps workflows using AWS services like EC2, Lambda, S3, ECR, RDS, CloudWatch, CodeBuild, and CodePipeline, along with Docker, Jenkins, SonarQube, Grafana, ELK Stack, and CI/CD automation. I care deeply about observability, operational visibility, and systems that remain maintainable under scale.<br><br>One thing that defines my approach is that every system should move a metric. I focus on engineering outcomes — improving performance, reducing operational friction, increasing delivery speed, simplifying developer workflows, or creating better user experiences. If a feature does not create measurable lift, it is incomplete.<br><br>I am also deeply interested in modern AI-assisted engineering workflows. I actively use tools like GitHub Copilot, Claude, Gemini, Cursor, and agentic development systems to accelerate development, improve productivity, and rethink how software teams build products at scale.<br><br>Beyond coding, I enjoy mentoring engineers, improving engineering standards, reviewing architectures, and building systems that other developers can scale confidently. I value clarity over complexity, practical execution over theoretical perfection, and shipping over endless planning.<br><br>Today, my focus areas include distributed systems, platform engineering, cloud-native architecture, AI-powered developer tooling, scalable backend infrastructure, and modern full-stack application design.<br><br>Backend-deep. Full-stack by delivery.<br><br>Schema to surface. Service to screen. No handoff costs.
 
-<h3 align="center">
-Lead Full Stack Engineer | Java · Spring Boot · Distributed Systems · AWS
-</h3>
 
-<p align="center">
-Building scalable cloud-native platforms.
-</p>
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/‪kishoreksharma) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/kishoreksharma) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kishoreksharma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharma.kishorek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kishore-k-sharma) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kishoreksharma) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kishoreksharmaa) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kishore-Kumar-10527) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kishoreksharma) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32714335) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kishoreksharmaa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC7_TJ1vL1r9nrItYqnjWgeA) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@kishoreksharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialkk02@gmail.com) 
 
-<p align="center">
-"I ship end-to-end. Schema to surface. No handoffs."
-</p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Kishore-K-Sharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Kishore-K-Sharma&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kishore-K-Sharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## About Me
-
-I build production systems that ship measurable lift.
-
-6.5+ years designing and delivering cloud-native applications across telecom, fintech, govtech, and edtech. Backend is my depth — Java, Spring Boot, distributed systems, AWS — but I ship the frontend too. Same engineer owns the API and the form that calls it.
-
-I focus on:
-- Clean system boundaries
-- Scalable microservice architecture
-- Performance and resiliency
-- Developer experience
-- Observable systems
-- End-to-end delivery
-
-Every system I have owned shipped with a number attached.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kishore-K-Sharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Kishore-K-Sharma&icon=3&color=1)](https://visitcount.itsvg.in)
 
-## Current Role
-
-### Lead Full Stack Engineer — Telus Digital
-📍 Noida, Uttar Pradesh, India  
-📅 Apr 2026 — Present
-
-Building scalable enterprise platforms and cloud-native systems.
-
----
-
-## Tech Stack
-
-### Backend
-```txt
-Java • Spring Boot • Spring Cloud • Microservices • Node.js • NestJS
-REST APIs • OAuth2 • JWT • Socket.io • WebRTC • Redis
-```
-
-### Frontend
-```txt
-React.js • Angular • TypeScript • JavaScript • React Native
-```
-
-### Cloud & DevOps
-```txt
-AWS • Docker • Jenkins • GitHub Actions • CI/CD
-Grafana • ELK • SonarQube • ECR • EC2 • Lambda
-```
-
-### Databases
-```txt
-PostgreSQL • MongoDB • MySQL • Redis
-```
-
-### Architecture & Engineering
-```txt
-Distributed Systems • API Security • Rate Limiting
-Circuit Breakers • Retry Patterns • Performance Tuning
-Caching Strategies • Observability • Event-Driven Systems
-```
-
----
-
-## Domain Experience
-
-- Telecom → Carrier-scale enterprise platforms
-- FinTech → Loan-processing & CRM modernization
-- EdTech → Real-time live-class infrastructure
-- GovTech → Department-scale e-governance systems
-
-The discipline travels:
-Model the domain. Draw clean boundaries. Instrument what matters. Ship measurable lift.
-
----
-
-## Career Timeline
-
-### Telus Digital
-**Lead Full Stack Engineer**  
-Apr 2026 — Present
-
-### Tata Consultancy Services
-**Systems Engineer**  
-May 2023 — Apr 2026
-
-- Built Java 17 + Spring Boot 3 microservices
-- Improved code quality and CI/CD workflows
-- Worked on observability using Grafana & ELK
-- Mentored engineers and improved delivery velocity
-
-### Credenc Web Technologies
-**Software Engineer**  
-Oct 2021 — May 2023
-
-- Modernized CRM and loan-processing systems
-- Built Node.js/NestJS services
-- Delivered AWS CI/CD pipelines
-- Worked across PostgreSQL and MongoDB ecosystems
-
-### Skaplink Technologies
-**Full Stack Developer**  
-Mar 2020 — Sep 2021
-
-- Built real-time tutoring systems using Socket.io & WebRTC
-- Developed e-governance platforms
-- Delivered applications using React, Angular, and React Native
-
-### S.S. Technologies
-**Software Developer**  
-Aug 2019 — Mar 2020
-
-- Built a college automation platform improving efficiency by 80%
-- Developed Android parental-control solutions
-
----
-
-## Recognition
-
-- Technical Excellence Award — TCS
-- Star of the Month — TCS
-- Applause for Team — TCS
-- On-The-Spot Award — TCS
-- Best Employee of the Year — Credenc
-- Star Performer of the Month — Credenc
-
----
-
-## Education
-
-### MCA — Computer Science
-Manipal University Jaipur  
-2021 — 2023
-
-### BSc — Computer Science
-Gauhati University  
-2016 — 2019
-
----
-
-## AI + Engineering Workflow
-
-I actively use AI-assisted engineering workflows with:
-- GitHub Copilot
-- Claude
-- Gemini
-- Cursor
-- Antigravity
-
-Focused on practical developer acceleration, agentic workflows, and modern engineering systems.
-
----
-
-## Connect
-
-- Portfolio → https://kishore.dev
-- LinkedIn → https://www.linkedin.com/in/kishore-k-sharma
-- Email → kishoresharma914@gmail.com
-
----
-
-## Philosophy
-
-Backend-deep. Full-stack by delivery.
-
-I optimize for:
-- shipping speed
-- system clarity
-- operational visibility
-- measurable outcomes
-
-Schema to surface. Service to screen. No handoff costs.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
