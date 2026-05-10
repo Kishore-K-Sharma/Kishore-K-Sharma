@@ -18,7 +18,5 @@ I am a Lead Full Stack Engineer with 6.5+ years of experience building scalable 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kishore-K-Sharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Kishore-K-Sharma&icon=3&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
